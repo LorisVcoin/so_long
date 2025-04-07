@@ -1,0 +1,470 @@
+[
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/main.c", "-o", "objs/main.o"],
+	"file": "srcs/main.c",
+	"output": "objs/main.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/parsing.c", "-o", "objs/parsing.o"],
+	"file": "srcs/parsing.c",
+	"output": "objs/parsing.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/parsing_utils.c", "-o", "objs/parsing_utils.o"],
+	"file": "srcs/parsing_utils.c",
+	"output": "objs/parsing_utils.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/so_long_utils.c", "-o", "objs/so_long_utils.o"],
+	"file": "srcs/so_long_utils.c",
+	"output": "objs/so_long_utils.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/map_settings.c", "-o", "objs/map_settings.o"],
+	"file": "srcs/map_settings.c",
+	"output": "objs/map_settings.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/init.c", "-o", "objs/init.o"],
+	"file": "srcs/init.c",
+	"output": "objs/init.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/destroy.c", "-o", "objs/destroy.o"],
+	"file": "srcs/destroy.c",
+	"output": "objs/destroy.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/verif_textures.c", "-o", "objs/verif_textures.o"],
+	"file": "srcs/verif_textures.c",
+	"output": "objs/verif_textures.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/settings.c", "-o", "objs/settings.o"],
+	"file": "srcs/settings.c",
+	"output": "objs/settings.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wextra", "-Werror", "-Wall", "-I", "libft", "-I", "libft/libft.h", "-c", "srcs/player_settings.c", "-o", "objs/player_settings.o"],
+	"file": "srcs/player_settings.c",
+	"output": "objs/player_settings.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/Application.cpp", "-o", "objs/make/linux/runtime/Sources/Core/Application.o"],
+	"file": "runtime/Sources/Core/Application.c",
+	"output": "objs/make/linux/runtime/Sources/Core/Application.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/Bridge.cpp", "-o", "objs/make/linux/runtime/Sources/Core/Bridge.o"],
+	"file": "runtime/Sources/Core/Bridge.c",
+	"output": "objs/make/linux/runtime/Sources/Core/Bridge.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/EventBus.cpp", "-o", "objs/make/linux/runtime/Sources/Core/EventBus.o"],
+	"file": "runtime/Sources/Core/EventBus.c",
+	"output": "objs/make/linux/runtime/Sources/Core/EventBus.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/EventListener.cpp", "-o", "objs/make/linux/runtime/Sources/Core/EventListener.o"],
+	"file": "runtime/Sources/Core/EventListener.c",
+	"output": "objs/make/linux/runtime/Sources/Core/EventListener.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/Fps.cpp", "-o", "objs/make/linux/runtime/Sources/Core/Fps.o"],
+	"file": "runtime/Sources/Core/Fps.c",
+	"output": "objs/make/linux/runtime/Sources/Core/Fps.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/Graphics.cpp", "-o", "objs/make/linux/runtime/Sources/Core/Graphics.o"],
+	"file": "runtime/Sources/Core/Graphics.c",
+	"output": "objs/make/linux/runtime/Sources/Core/Graphics.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/Logs.cpp", "-o", "objs/make/linux/runtime/Sources/Core/Logs.o"],
+	"file": "runtime/Sources/Core/Logs.c",
+	"output": "objs/make/linux/runtime/Sources/Core/Logs.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/Memory.cpp", "-o", "objs/make/linux/runtime/Sources/Core/Memory.o"],
+	"file": "runtime/Sources/Core/Memory.c",
+	"output": "objs/make/linux/runtime/Sources/Core/Memory.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/Profiler.cpp", "-o", "objs/make/linux/runtime/Sources/Core/Profiler.o"],
+	"file": "runtime/Sources/Core/Profiler.c",
+	"output": "objs/make/linux/runtime/Sources/Core/Profiler.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/SDLManager.cpp", "-o", "objs/make/linux/runtime/Sources/Core/SDLManager.o"],
+	"file": "runtime/Sources/Core/SDLManager.c",
+	"output": "objs/make/linux/runtime/Sources/Core/SDLManager.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Core/UUID.cpp", "-o", "objs/make/linux/runtime/Sources/Core/UUID.o"],
+	"file": "runtime/Sources/Core/UUID.c",
+	"output": "objs/make/linux/runtime/Sources/Core/UUID.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Graphics/Font.cpp", "-o", "objs/make/linux/runtime/Sources/Graphics/Font.o"],
+	"file": "runtime/Sources/Graphics/Font.c",
+	"output": "objs/make/linux/runtime/Sources/Graphics/Font.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Graphics/Mesh.cpp", "-o", "objs/make/linux/runtime/Sources/Graphics/Mesh.o"],
+	"file": "runtime/Sources/Graphics/Mesh.c",
+	"output": "objs/make/linux/runtime/Sources/Graphics/Mesh.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Graphics/PutPixelManager.cpp", "-o", "objs/make/linux/runtime/Sources/Graphics/PutPixelManager.o"],
+	"file": "runtime/Sources/Graphics/PutPixelManager.c",
+	"output": "objs/make/linux/runtime/Sources/Graphics/PutPixelManager.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Graphics/Scene.cpp", "-o", "objs/make/linux/runtime/Sources/Graphics/Scene.o"],
+	"file": "runtime/Sources/Graphics/Scene.c",
+	"output": "objs/make/linux/runtime/Sources/Graphics/Scene.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Graphics/Sprite.cpp", "-o", "objs/make/linux/runtime/Sources/Graphics/Sprite.o"],
+	"file": "runtime/Sources/Graphics/Sprite.c",
+	"output": "objs/make/linux/runtime/Sources/Graphics/Sprite.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Graphics/Text.cpp", "-o", "objs/make/linux/runtime/Sources/Graphics/Text.o"],
+	"file": "runtime/Sources/Graphics/Text.c",
+	"output": "objs/make/linux/runtime/Sources/Graphics/Text.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Platform/Inputs.cpp", "-o", "objs/make/linux/runtime/Sources/Platform/Inputs.o"],
+	"file": "runtime/Sources/Platform/Inputs.c",
+	"output": "objs/make/linux/runtime/Sources/Platform/Inputs.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Platform/Window.cpp", "-o", "objs/make/linux/runtime/Sources/Platform/Window.o"],
+	"file": "runtime/Sources/Platform/Window.c",
+	"output": "objs/make/linux/runtime/Sources/Platform/Window.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Buffer.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Buffer.o"],
+	"file": "runtime/Sources/Renderer/Buffer.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Buffer.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Descriptor.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Descriptor.o"],
+	"file": "runtime/Sources/Renderer/Descriptor.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Descriptor.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Image.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Image.o"],
+	"file": "runtime/Sources/Renderer/Image.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Image.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Memory.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Memory.o"],
+	"file": "runtime/Sources/Renderer/Memory.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Memory.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/RenderCore.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/RenderCore.o"],
+	"file": "runtime/Sources/Renderer/RenderCore.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/RenderCore.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Renderer.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Renderer.o"],
+	"file": "runtime/Sources/Renderer/Renderer.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Renderer.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/SceneRenderer.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/SceneRenderer.o"],
+	"file": "runtime/Sources/Renderer/SceneRenderer.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/SceneRenderer.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Swapchain.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Swapchain.o"],
+	"file": "runtime/Sources/Renderer/Swapchain.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Swapchain.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Vulkan/VulkanLoader.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Vulkan/VulkanLoader.o"],
+	"file": "runtime/Sources/Renderer/Vulkan/VulkanLoader.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Vulkan/VulkanLoader.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Pipelines/Graphics.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Pipelines/Graphics.o"],
+	"file": "runtime/Sources/Renderer/Pipelines/Graphics.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Pipelines/Graphics.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/Pipelines/Shader.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/Pipelines/Shader.o"],
+	"file": "runtime/Sources/Renderer/Pipelines/Shader.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/Pipelines/Shader.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/RenderPasses/2DPass.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/RenderPasses/2DPass.o"],
+	"file": "runtime/Sources/Renderer/RenderPasses/2DPass.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/RenderPasses/2DPass.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/RenderPasses/FinalPass.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/RenderPasses/FinalPass.o"],
+	"file": "runtime/Sources/Renderer/RenderPasses/FinalPass.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/RenderPasses/FinalPass.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["clang++", "-std=c++20", "-fPIC", "-Wall", "-Wextra", "-DSDL_MAIN_HANDLED", "-Wno-error=", "-O3", "-DIMAGE_OPTIMIZED", "-I./includes", "-I./runtime/Includes", "-I./runtime/Sources", "-I./third_party", "-c", "runtime/Sources/Renderer/RenderPasses/Passes.cpp", "-o", "objs/make/linux/runtime/Sources/Renderer/RenderPasses/Passes.o"],
+	"file": "runtime/Sources/Renderer/RenderPasses/Passes.c",
+	"output": "objs/make/linux/runtime/Sources/Renderer/RenderPasses/Passes.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_isalnum.c", "-o", "ft_isalnum.o"],
+	"file": "ft_isalnum.c",
+	"output": "ft_isalnum.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_isalpha.c", "-o", "ft_isalpha.o"],
+	"file": "ft_isalpha.c",
+	"output": "ft_isalpha.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_isascii.c", "-o", "ft_isascii.o"],
+	"file": "ft_isascii.c",
+	"output": "ft_isascii.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_isdigit.c", "-o", "ft_isdigit.o"],
+	"file": "ft_isdigit.c",
+	"output": "ft_isdigit.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_isprint.c", "-o", "ft_isprint.o"],
+	"file": "ft_isprint.c",
+	"output": "ft_isprint.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strlen.c", "-o", "ft_strlen.o"],
+	"file": "ft_strlen.c",
+	"output": "ft_strlen.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strlcpy.c", "-o", "ft_strlcpy.o"],
+	"file": "ft_strlcpy.c",
+	"output": "ft_strlcpy.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strlcat.c", "-o", "ft_strlcat.o"],
+	"file": "ft_strlcat.c",
+	"output": "ft_strlcat.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strnstr.c", "-o", "ft_strnstr.o"],
+	"file": "ft_strnstr.c",
+	"output": "ft_strnstr.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_memcpy.c", "-o", "ft_memcpy.o"],
+	"file": "ft_memcpy.c",
+	"output": "ft_memcpy.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_memcmp.c", "-o", "ft_memcmp.o"],
+	"file": "ft_memcmp.c",
+	"output": "ft_memcmp.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_atoi.c", "-o", "ft_atoi.o"],
+	"file": "ft_atoi.c",
+	"output": "ft_atoi.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strncmp.c", "-o", "ft_strncmp.o"],
+	"file": "ft_strncmp.c",
+	"output": "ft_strncmp.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_toupper.c", "-o", "ft_toupper.o"],
+	"file": "ft_toupper.c",
+	"output": "ft_toupper.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_tolower.c", "-o", "ft_tolower.o"],
+	"file": "ft_tolower.c",
+	"output": "ft_tolower.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_bzero.c", "-o", "ft_bzero.o"],
+	"file": "ft_bzero.c",
+	"output": "ft_bzero.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_memset.c", "-o", "ft_memset.o"],
+	"file": "ft_memset.c",
+	"output": "ft_memset.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strchr.c", "-o", "ft_strchr.o"],
+	"file": "ft_strchr.c",
+	"output": "ft_strchr.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strrchr.c", "-o", "ft_strrchr.o"],
+	"file": "ft_strrchr.c",
+	"output": "ft_strrchr.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_memchr.c", "-o", "ft_memchr.o"],
+	"file": "ft_memchr.c",
+	"output": "ft_memchr.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_memmove.c", "-o", "ft_memmove.o"],
+	"file": "ft_memmove.c",
+	"output": "ft_memmove.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_calloc.c", "-o", "ft_calloc.o"],
+	"file": "ft_calloc.c",
+	"output": "ft_calloc.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strdup.c", "-o", "ft_strdup.o"],
+	"file": "ft_strdup.c",
+	"output": "ft_strdup.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_substr.c", "-o", "ft_substr.o"],
+	"file": "ft_substr.c",
+	"output": "ft_substr.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strjoin.c", "-o", "ft_strjoin.o"],
+	"file": "ft_strjoin.c",
+	"output": "ft_strjoin.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_putchar_fd.c", "-o", "ft_putchar_fd.o"],
+	"file": "ft_putchar_fd.c",
+	"output": "ft_putchar_fd.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_putnbr_fd.c", "-o", "ft_putnbr_fd.o"],
+	"file": "ft_putnbr_fd.c",
+	"output": "ft_putnbr_fd.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_putstr_fd.c", "-o", "ft_putstr_fd.o"],
+	"file": "ft_putstr_fd.c",
+	"output": "ft_putstr_fd.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_itoa.c", "-o", "ft_itoa.o"],
+	"file": "ft_itoa.c",
+	"output": "ft_itoa.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strtrim.c", "-o", "ft_strtrim.o"],
+	"file": "ft_strtrim.c",
+	"output": "ft_strtrim.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_strmapi.c", "-o", "ft_strmapi.o"],
+	"file": "ft_strmapi.c",
+	"output": "ft_strmapi.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_striteri.c", "-o", "ft_striteri.o"],
+	"file": "ft_striteri.c",
+	"output": "ft_striteri.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_putendl_fd.c", "-o", "ft_putendl_fd.o"],
+	"file": "ft_putendl_fd.c",
+	"output": "ft_putendl_fd.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "ft_split.c", "-o", "ft_split.o"],
+	"file": "ft_split.c",
+	"output": "ft_split.o"
+},
+{
+	"directory": "/nfs/homes/lviravon/Documents/SecondCircle/so_long",
+	"arguments": ["cc", "-g", "-Wall", "-Wextra", "-Werror", "-c", "get_next_line.c", "-o", "get_next_line.o"],
+	"file": "get_next_line.c",
+	"output": "get_next_line.o"
+}
+]
