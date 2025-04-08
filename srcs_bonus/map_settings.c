@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include "libft.h"
-#include "so_long_bonus.h"
+#include "../so_long_bonus.h"
 
 void	replace_map(t_data *data)
 {

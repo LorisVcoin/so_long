@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long_bonus.h"
+#include "../so_long_bonus.h"
 
 int	move(int key, t_data *data, int *tab)
 {

@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long_bonus.h"
+#include "../so_long_bonus.h"
 
 void	init_all(int fd, t_data *data)
 {

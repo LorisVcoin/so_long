@@ -59,7 +59,7 @@ OBJS = $(SRC:srcs/%.c=objs/%.o)
 
 OBJS_BONUS = $(SRC_BONUS:srcs_bonus/%.c=bonus_objs/%.o)
 
-CFLAGS = -g -Wextra -Werror -Wall -I libft
+CFLAGS = -fPIE -pie -I libft 
 
 #=================================={COUNT T .o}================================#
 

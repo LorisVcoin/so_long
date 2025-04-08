@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "so_long_bonus.h"
+#include "../so_long_bonus.h"
 
 static int	no_null_img_2(t_images *img)
 {

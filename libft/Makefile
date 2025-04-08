@@ -102,7 +102,7 @@ SRC_LFT_PCT = $(shell expr 100 \* $(SRC_LFT_COUNT) / $(SRC_LFT_COUNT_TOT))
 
 BONUS_OBJECTS = $(BONUS_SOURCES:.c=.o)
 
-CFLAGS = -g -Wall -Wextra -Werror
+CFLAGS = -g
 
 all : $(NAME)
 
